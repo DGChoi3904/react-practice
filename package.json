@@ -1,0 +1,21 @@
+{
+  "name": "react-practice",
+  "version": "0.0.1",
+  "description": "연구용 레포지스토리",
+  "main": "index.js",
+  "private":"true",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DGChoi3904/react-practice.git"
+  },
+  "author": "DGChoi3904",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DGChoi3904/react-practice/issues"
+  },
+  "homepage": "https://github.com/DGChoi3904/react-practice#readme",
+  "type": "module"
+}
